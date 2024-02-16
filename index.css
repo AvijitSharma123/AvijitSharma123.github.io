@@ -52,6 +52,10 @@ section {
 footer {
   font-family: "Poppins", sans-serif;
 }
+
+/* #home-img {
+  height:1600px
+} */
 #about .about-content,
 .services .serv-content,
 #skills .skills-content,
